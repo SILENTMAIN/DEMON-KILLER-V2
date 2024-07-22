@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Silent042"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me//2348168855791"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Silent042?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
-<a href="https://github.com/Silent042/Dagger-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social"></a>
-<a href="https://github.com/Silent042/Dagger-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
-<a href="https://github.com/Silent042/Dagger-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Silent042/DEMON-KILLER-V2"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social"></a>
+<a href="https://github.com/Silent042/DEMON-KILLER-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
+<a href="https://github.com/Silent042/DEMON-KILLER-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
 </p>
 </a>
 </p>  
@@ -49,9 +49,22 @@
 🦠| .Add the Build packs Below 
 🦠| .👇👇
 ```
-# Instalasi
-* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
+
+# DEPLOY BY SESSION ID or creds.json (pair-code)
+
+
+<a href="https://replit.com/@okoyee2004/Classic-Pairing-12#main.sh"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a> CLICK HERE 
+
+
+# RENDER DEPLOYMENT༒
+
+★ Register To Render 
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+★ Now Deploy
+    <br>
+<a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -90,4 +103,29 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 …\…………... (...…….)……………..
 —————————————————————
       *`SILENT`*
-  
+  ,                         ︵
+                        /'_/) 
+                      /¯ ../ 
+                    /'..../ 
+                  /¯ ../ 
+                /... ./
+   ¸•´¯/´¯ /' ...'/´¯`•¸  
+ /'.../... /.... /.... /¯\
+('  (...´.(,.. ..(...../',    \
+ \'.............. .......\'.    )      
+   \'....................._.•´/
+     \ ....................  /
+       \ .................. |
+         \  ............... |
+           \............... |
+             \ .............|
+               \............|
+                 \ .........|
+                   \ .......|
+                     \ .....|
+                       \ ...|
+                         \ .|
+                           \\
+                              \('-') 
+   ,,                            |_|\
+                                 | |
