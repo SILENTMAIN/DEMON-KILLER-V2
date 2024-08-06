@@ -20,7 +20,7 @@
 ## Install Several Packages And Run Bots
 
 ```csharp
-> git clone https://github.com/Samue-l1/Dagger-Bot
+> git clone https://github.com/Silent042/Demon_killer
 > apt-get update -y
 > apt-get upgrade -y
 > apt-get install -y git
