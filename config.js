@@ -22,7 +22,7 @@ global.location = '1'; // Replace with your location panel
 
 //===========================//
 
-global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
+global.prefa = ['😈'];
 global.owner = ['2348168855791'];
 global.ownMain = '2348168855791';
 global.NamaOwner = '😈DEMON KILLER🕷️'; // Do not change 
